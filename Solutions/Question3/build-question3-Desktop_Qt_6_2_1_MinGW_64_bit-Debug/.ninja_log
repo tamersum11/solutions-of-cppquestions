@@ -1,0 +1,13 @@
+# ninja log v5
+4	65	6662438324831635	CMakeFiles/question3.dir/rectangle.cpp.obj	9a027becf14ae713
+1	292	6662438327110085	CMakeFiles/question3.dir/main.cpp.obj	1ad751dbd06dc6d7
+294	406	6662438328218011	question3.exe	a2152ca40d663a89
+3	254	6662439026508778	CMakeFiles/question3.dir/main.cpp.obj	1ad751dbd06dc6d7
+255	368	6662439027619712	question3.exe	a2152ca40d663a89
+3	284	6662441431700548	CMakeFiles/question3.dir/main.cpp.obj	1ad751dbd06dc6d7
+285	395	6662441432765342	question3.exe	a2152ca40d663a89
+8	85	6664816861433251	CMakeFiles/question3.dir/rectangle.cpp.obj	9a027becf14ae713
+4	309	6664816863682182	CMakeFiles/question3.dir/main.cpp.obj	1ad751dbd06dc6d7
+309	415	6664816864694672	question3.exe	a2152ca40d663a89
+3	59	6664817641159208	CMakeFiles/question3.dir/rectangle.cpp.obj	9a027becf14ae713
+60	164	6664817642156538	question3.exe	a2152ca40d663a89

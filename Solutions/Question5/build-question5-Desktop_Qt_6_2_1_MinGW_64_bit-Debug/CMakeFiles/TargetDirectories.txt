@@ -1,0 +1,3 @@
+C:/Users/Tamer/Desktop/Foreks-C++Questions/Solutions/Question5/build-question5-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Tamer/Desktop/Foreks-C++Questions/Solutions/Question5/build-question5-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/question5.dir
+C:/Users/Tamer/Desktop/Foreks-C++Questions/Solutions/Question5/build-question5-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir

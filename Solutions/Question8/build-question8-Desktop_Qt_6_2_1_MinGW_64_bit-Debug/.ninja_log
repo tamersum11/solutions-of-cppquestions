@@ -1,0 +1,15 @@
+# ninja log v5
+3	266	6664853700548270	CMakeFiles/question8.dir/point.cpp.obj	8d38e246cd18f4fc
+1	269	6664853700587901	CMakeFiles/question8.dir/main.cpp.obj	7ddaa0cf0595ab1f
+4	267	6664854678000040	CMakeFiles/question8.dir/main.cpp.obj	7ddaa0cf0595ab1f
+267	374	6664854679046695	question8.exe	5ac0e17161da139b
+3	260	6664858522234409	CMakeFiles/question8.dir/main.cpp.obj	7ddaa0cf0595ab1f
+4	304	6664862995925114	CMakeFiles/question8.dir/main.cpp.obj	7ddaa0cf0595ab1f
+2	491	6664882346523865	CMakeFiles/question8.dir/main.cpp.obj	7ddaa0cf0595ab1f
+8	531	6664882346973004	CMakeFiles/question8.dir/point.cpp.obj	8d38e246cd18f4fc
+531	725	6664882348842889	question8.exe	5ac0e17161da139b
+4	308	6664883409398502	CMakeFiles/question8.dir/main.cpp.obj	7ddaa0cf0595ab1f
+8	356	6664883409877582	CMakeFiles/question8.dir/point.cpp.obj	8d38e246cd18f4fc
+357	493	6664883411221515	question8.exe	5ac0e17161da139b
+3	295	6664884887284787	CMakeFiles/question8.dir/point.cpp.obj	8d38e246cd18f4fc
+296	436	6664884888661117	question8.exe	5ac0e17161da139b
